@@ -15,3 +15,6 @@
 	</div>
 </body>
 </html>
+
+<!-- Minor update: Prepared for deployment -->
+
